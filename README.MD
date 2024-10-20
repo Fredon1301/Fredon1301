@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Luan Dos Santos Barbosa</h1>
 <h3 align="center">A passionate Software developer from Brazil</h3>
-<img align="right" alt="Coding" height="200" width="200" src="https://www.icegif.com/wp-content/uploads/2023/11/icegif-685.gif">
+<img align="right" alt="Coding" height="200" width="200" src="https://media1.tenor.com/m/ze8jE44PCJYAAAAC/saitama-onepunchman.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredon1301&label=Profile%20views&color=0e75b6&style=flat" alt="fredon1301" /> </p>
   
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fredon1301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fredon1301" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luan-barbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luan-barbosa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
