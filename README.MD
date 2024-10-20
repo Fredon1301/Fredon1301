@@ -1,4 +1,4 @@
-[![MasterHead](blob:chrome-untrusted://image-magnify/dc39737f-3ba4-42e4-862f-3c287ce66f54)
+[![MasterHead](https://tm.ibxk.com.br/2020/09/16/16180306010652.jpg?ims=704x264)
 
 <h1 align="center">Hi 👋, I'm Luan Dos Santos Barbosa</h1>
 <h3 align="center">A passionate Software developer from Brazil</h3>
