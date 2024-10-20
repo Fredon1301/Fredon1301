@@ -1,20 +1,18 @@
 [![MasterHead](https://uploads.dailydot.com/2019/11/buff-guy-typing-on-laptop.jpg?auto=compress&fm=pjpg)](https://uploads.dailydot.com/2019/11/buff-guy-typing-on-laptop.jpg?auto=compress&fm=pjpg)
 
-<h1 align="center">Hi 👋, I'm Arthur Freire de Morais</h1>
+<h1 align="center">Hi 👋, I'm Luan Dos Santos Barbosa</h1>
 <h3 align="center">A passionate Software developer from Brazil</h3>
 <img align="right" alt="Coding" height="200" width="200" src="https://media.tenor.com/epNMHGvRyHcAAAAd/gigachad-chad.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredon1301&label=Profile%20views&color=0e75b6&style=flat" alt="fredon1301" /> </p>
-
-- 🔭 worked at **RoleCather from Colchester, England, United Kingdom · Remote** for 6 months.
   
 - 📫  Student in Information Systems at UNIFACISA-PB
 
-- 🌱 I’m currently learning **Node.js and React/React Native**
+- 🌱 I’m currently learning **Java and Spring Boot**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **fredon1301@gmail.com**
+- 📫 How to reach me **luansantos80113@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
