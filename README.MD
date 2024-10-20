@@ -1,4 +1,4 @@
-[![MasterHead](https://uploads.dailydot.com/2019/11/buff-guy-typing-on-laptop.jpg?auto=compress&fm=pjpg)](https://uploads.dailydot.com/2019/11/buff-guy-typing-on-laptop.jpg?auto=compress&fm=pjpg)
+[![MasterHead](blob:chrome-untrusted://image-magnify/dc39737f-3ba4-42e4-862f-3c287ce66f54)
 
 <h1 align="center">Hi 👋, I'm Luan Dos Santos Barbosa</h1>
 <h3 align="center">A passionate Software developer from Brazil</h3>
