@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredon1301&label=Profile%20views&color=0e75b6&style=flat" alt="fredon1301" /> </p>
   
-- 📫  Student in Information Systems at UNIFACISA-PB
+- 📫 Graduated Information Systems
 
-- 🌱 I’m currently learning **Java and Spring Boot**
+- 🌱  **Java and Spring Boot**
 
 - 💬 Ask me about **Web Development**
 
